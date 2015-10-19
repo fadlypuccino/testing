@@ -1,5 +1,6 @@
 Artf123456
 Title : Wrong navigation after tapping “PAY NOW” button
+Description : User navigates to Pickup information screen after tapping on “PAY NOW” button
 
 =============
 1. Launch OG apps
@@ -29,5 +30,7 @@ Title : Wrong navigation after tapping “PAY NOW” button
 25. Tap Continue to payment button
 26. Verify Payment screen
 27. Tap Pay Now button
+
+Actual : Tap on “PAY NOW” button then system navigate to “Pickup Information” screen
 
 Expected Result : View Confirmation should be displayed

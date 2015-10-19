@@ -1,3 +1,5 @@
+Ini gw kasi Step buat bikin bugs vroh
+
 1. Launch OG apps
 2. Tap Gift Cards button on home screen
 3. Tap Gift Card by Mail button

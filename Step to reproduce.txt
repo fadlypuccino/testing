@@ -50,3 +50,5 @@
 25. Tap Continue to payment button
 26. Verify Payment screen
 27. Tap Pay Now button
+
+Expected Result : View Confirmation should be displayed

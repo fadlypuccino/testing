@@ -5,3 +5,4 @@ Darden Oct, 19 2015
 
 Darden oct, 10 2016
 1. Automation creation
+2. Delete artifact id

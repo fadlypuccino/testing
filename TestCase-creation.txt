@@ -1,5 +1,4 @@
-Artf123456
-Title : Wrong navigation after tapping “PAY NOW” button
+﻿Title : Wrong navigation after tapping “PAY NOW” button
 Description : User navigates to Pickup information screen after tapping on “PAY NOW” button
 
 1. Launch OG apps

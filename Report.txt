@@ -2,3 +2,4 @@ Darden Oct, 19 2015
 
 1. Testing
 2. Log defect
+3. Add new defect

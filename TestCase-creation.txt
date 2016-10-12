@@ -1,4 +1,4 @@
-﻿Title : Wrong navigation after tapping “PAY NOW” button
+Title : Wrong navigation after tapping “PAY NOW” button
 Description : User navigates to Pickup information screen after tapping on “PAY NOW” button
 
 1. Launch OG apps
@@ -24,6 +24,23 @@ Description : User navigates to Pickup information screen after tapping on “PA
 21. Enter all mandatory field with valid data
 22. Tap Pay Now button
 23. Tap Create account button on confirmation screen
+
+Actual : Tap on “PAY NOW” button then system navigate to “Pickup Information” screen
+Expected Result : View Confirmation should be displayed
+
+1. Launch OG apps
+2. Tap Gift Cards button on home screen
+3. Tap Gift Card by Mail button
+4. Tap Gift Card Design
+5. Select type Gift Card
+6. Tap Done button
+7. Tap Continue button
+8. Verify Order detail screen
+9. Tap Add Shipping Address button
+10. Enter all mandatory field with valid data
+11. Tap Add button
+12. Select shipping address
+13. Tap Done button
 
 Actual : Tap on “PAY NOW” button then system navigate to “Pickup Information” screen
 Expected Result : View Confirmation should be displayed

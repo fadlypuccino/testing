@@ -8,3 +8,4 @@ Darden oct, 10 2016
 2. Delete artifact id
 3. Add new branch in remote
 4. Automation creation
+5. Jenkins maintenance

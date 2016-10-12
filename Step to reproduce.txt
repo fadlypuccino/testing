@@ -52,3 +52,15 @@ Created by: Fadli_r
 25. Tap Continue to payment button
 26. Verify Payment screen
 27. Tap Pay Now button
+
+=============
+1. Launch OG apps
+2. Tap hamburger menu icon
+3. Tap Sign in button
+4. Enter valid email & password
+5. Tap login button
+6. Tap Gift Cards button on home screen
+7. Tap Gift Card by Mail button
+8. Tap Gift Card Design
+9. Select type Gift Card
+10. Tap Done button

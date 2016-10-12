@@ -9,3 +9,8 @@ Darden oct, 10 2016
 3. Add new branch in remote
 4. Automation creation
 5. Jenkins maintenance
+
+Darden oct, 12 2016
+1. Automation creation
+2. Delete artifact id
+3. Add new branch in remote
